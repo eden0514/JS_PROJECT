@@ -203,6 +203,14 @@ main {
   border-radius: 50%;
   position: relative;
 }
+#cat-img {
+  width: 100%;
+  display: block;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  position: relative;
+}
 .img-container::after {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
